@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Rudys.Weather.React/static/css/main.a7f133c0.css",
+    "main.js": "/Rudys.Weather.React/static/js/main.0fd65445.js",
+    "static/media/fa-solid-900.ttf": "/Rudys.Weather.React/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
+    "static/media/fa-brands-400.ttf": "/Rudys.Weather.React/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
+    "static/media/fa-solid-900.woff2": "/Rudys.Weather.React/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
+    "static/media/fa-brands-400.woff2": "/Rudys.Weather.React/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
+    "static/media/background.png": "/Rudys.Weather.React/static/media/background.da37828d41090154f962.png",
+    "static/media/fa-regular-400.ttf": "/Rudys.Weather.React/static/media/fa-regular-400.d87474231f4192884802.ttf",
+    "static/media/fa-regular-400.woff2": "/Rudys.Weather.React/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
+    "static/media/fa-v4compatibility.ttf": "/Rudys.Weather.React/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Rudys.Weather.React/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
+    "index.html": "/Rudys.Weather.React/index.html",
+    "main.a7f133c0.css.map": "/Rudys.Weather.React/static/css/main.a7f133c0.css.map",
+    "main.0fd65445.js.map": "/Rudys.Weather.React/static/js/main.0fd65445.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7f133c0.css",
+    "static/js/main.0fd65445.js"
+  ]
+}
